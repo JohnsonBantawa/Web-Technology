@@ -1,0 +1,12 @@
+After creating a new repository
+git init
+git add
+git commit -m "message"
+git status 
+link https (from github created repository)
+git push -u origin master or main
+
+for exisiting repository push
+git add 
+git commit -m "message"
+git push 

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik+Vinyl&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@100&family=Rubik+Vinyl&display=swap');
+h1{
+    background-color: rgb(42, 165, 159);
+    font-size: 40px;
+    color:black;
+    font-family: 'Pacifico', cursive;
+ }
+ h2{
+    background-color: rgb(0, 0, 0);
+    font-size: 40px;
+    color:rgb(42, 165, 159);
+    
+font-family: 'Rubik Vinyl', cursive;
+ }
+
+ p{
+    background-color: rgb(10, 9, 9);
+    font-size: 20px;
+    color:rgb(255, 247, 247);
+    
+font-family: 'Poppins', sans-serif;
+
+ }
