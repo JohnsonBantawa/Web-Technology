@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap');
+
+#head{
+    background-color: black;
+    font-size: 50px;
+    color: rgb(242, 247, 247);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.para{
+    /* background-color: aqua; */
+    font-size: 20px;
+    color: rgb(247, 242, 242);
+    font-family::'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+body{
+    /* background: linear-gradient( grey, white); */
+    background-image: url("image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#p2{
+    
+    
+    font-size: 20px;
+    color: rgb(238, 234, 241);
+    font-family:'Rubik Vinyl', cursive;
+}

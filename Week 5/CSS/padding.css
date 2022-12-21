@@ -1,0 +1,30 @@
+#p1{
+    margin: 50px;
+    width: 250px;
+    height: 250px;
+    font-size: 18px;
+    color: black;
+    background-color: aqua;
+    border-style: groove;
+    padding: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#p2{
+    width: 200px;
+    height: 200px;
+    font-size: 13px;
+    color: rgb(245, 240, 240);
+    background-color: rgb(50, 16, 201);
+    border-style: dotted;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p3{
+    width: 150px;
+    height: 150px;
+    font-size: 10px;
+    color: black;
+    background-color: rgb(96, 250, 25);
+    border-style: double;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
